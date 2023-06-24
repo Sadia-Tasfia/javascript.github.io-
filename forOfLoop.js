@@ -22,6 +22,7 @@ const uniqueName = friendList(names) ;
 console.log(uniqueName);
 
 
+
 // Remove duplicate name
 function removeDuplicate(names) {
   const unique = [];

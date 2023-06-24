@@ -68,3 +68,14 @@ for (let i = 0; i < arr.length; i++) {
   sum += arr[i];
 }
 console.log(sum);
+
+// largest number above 80
+const newArray1 = [
+  23, 37, 86, 73, 120, 132, 74, 95, 32, 10, 5, 189, 167, 44, 65, 154, 80.1,
+];
+
+for (let i = 0; i < newArray1.length; i++) {
+  if (newArray1[i] > 80)
+    console.log(newArray1[i]);
+}
+
