@@ -1,3 +1,10 @@
+/*
+Topic:
+1. while loop
+2. Even number
+3. Odd number
+*/ 
+
 const newArr = ["hello", "world", 40, 50, "hi", "bye"];
 let i = 0;
 while (i < newArr.length) {

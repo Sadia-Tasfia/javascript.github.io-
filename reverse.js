@@ -72,6 +72,3 @@ for (let i =0; i <= string3.length-1 ; i++) {
   // console.log(revstr3);
 }
 console.log(`${string3} reverse is ${revstr3}`);
-
-
- 

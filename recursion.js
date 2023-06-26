@@ -58,7 +58,7 @@ console.log(factorial1);
 */ 
 
 function factorial(i) {
-
+  
   console.log(i)
   if (i == 1) {
     //condition

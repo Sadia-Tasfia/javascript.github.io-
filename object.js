@@ -60,12 +60,12 @@ const student = {
 // console.log(student);
 
 // finding properties using 2 method(dot , bracket notation)
+
 // console.log(student.job);
 // console.log(student.friends[1]);
 
 // console.log(student["firstName"]);
 // console.log(student["lastName"]);
-
 // console.log(student["isGoodAt" + "Programmer"]);
 
 // exercise
@@ -90,11 +90,13 @@ console.log(
 
 
 //finding last & middle element by index
+
 const value = new Array(12,45,2,67,28,97,83,'TASFIA',5,2,9,1,27,58,10,3,8,12,76,'lorem');
 // console.log(value.length);
 // console.log(value [value.length -13]);
 
 // Changing the array value or muted
+
 value[3]= 'hello world';
 value[value.length -8] = "hello programmer";
 value.unshift(29);

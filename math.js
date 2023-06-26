@@ -4,7 +4,7 @@ abs(used for remove negative sign)
 ceil ( take the upper value)
 floor( opposite of ceil)
 round ( will show the nearest round number)
-
+random ( will take randam number)
 Topic:
 1. abs
 2. ceil

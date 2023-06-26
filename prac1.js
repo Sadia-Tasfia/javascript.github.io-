@@ -157,13 +157,14 @@ const names = bestFriend(friendName);
 const shongkha = [29,84,93, 84, 92, -38, 64,-36,46,54,66,-37 ,-74] ;
 
 let newShongkha = [];
-for (let i=0; i < shongkha.length; i++) {
-  if(shongkha[i] < -1 ) {
+for (let i = 0; i < shongkha.length; i++) {
+  if (shongkha[i] < -1) {
+    console.log(newShongkha);
     break;
   }
     newShongkha.push(shongkha[i]);
-    console.log(newShongkha);
 }
+
 
 
 for (let i = 0; i < shongkha.length; i++) {
